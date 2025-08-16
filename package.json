@@ -1,0 +1,19 @@
+{
+  "name": "lol-roulette",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "deploy": "npm run build && gh-pages -d build"
+  },
+  "homepage": "https://github.com/m200701019-bot/lol-roulette.git",
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
+  }
+}
