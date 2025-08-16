@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/m200701019-bot/lol-roulette.git/static/css/main.1b069b1e.css",
+    "main.js": "/m200701019-bot/lol-roulette.git/static/js/main.4bf36976.js",
+    "index.html": "/m200701019-bot/lol-roulette.git/index.html",
+    "main.1b069b1e.css.map": "/m200701019-bot/lol-roulette.git/static/css/main.1b069b1e.css.map",
+    "main.4bf36976.js.map": "/m200701019-bot/lol-roulette.git/static/js/main.4bf36976.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b069b1e.css",
+    "static/js/main.4bf36976.js"
+  ]
+}
